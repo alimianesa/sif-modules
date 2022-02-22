@@ -1,8 +1,8 @@
 from distutils.core import setup
 
 setup(
-    name='SifBaseModule',
-    packages=['SifBaseModule'],
+    name='SamIotFrameworkBaseModule',
+    packages=['SamIotFrameworkBaseModule'],
     version='1.0.0.0',
     description='SAM IOT Base Module',
     author='babak nodoust',

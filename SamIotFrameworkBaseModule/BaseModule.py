@@ -1,6 +1,6 @@
-import SifBaseModule.BaseDevice as BaseDevice
-import SifBaseModule.BasePoint as BasePoint
-import SifBaseModule.BaseAction as BaseAction
+import SamIotFrameworkBaseModule.BaseDevice as BaseDevice
+import SamIotFrameworkBaseModule.BasePoint as BasePoint
+import SamIotFrameworkBaseModule.BaseAction as BaseAction
 
 
 class BaseModule:
