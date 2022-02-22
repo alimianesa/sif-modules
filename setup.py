@@ -7,8 +7,8 @@ setup(
     description='SAM IOT Base Module',
     author='babak nodoust',
     author_email='alive2212@gmail.com',
-    url='github package source url',
-    download_url='download link you saved',
+    url='https://github.com/alimianesa/sif-modules',
+    download_url='https://github.com/alimianesa/sif-modules/archive/refs/tags/pypi.tar.gz',
     keywords=['sam-iot-framework', 'sam', 'sam-iot', 'sif'],
     classifiers=[],
 )
