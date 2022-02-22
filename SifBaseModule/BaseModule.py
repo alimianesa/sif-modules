@@ -1,6 +1,6 @@
-import BaseDevice as BaseDevice
-import BasePoint as BasePoint
-import BaseAction as BaseAction
+import SifBaseModule.BaseDevice as BaseDevice
+import SifBaseModule.BasePoint as BasePoint
+import SifBaseModule.BaseAction as BaseAction
 
 
 class BaseModule:
@@ -15,9 +15,9 @@ class BaseModule:
             _version: str,
             _vendor_id: int,
             _vendor_title: str,
-            _device: BaseDevice.BaseDevice,
-            _point: BasePoint.BasePoint,
-            _action: BaseAction.BaseAction,
+            _device: BaseDevice,
+            _point: BasePoint,
+            _action: BaseAction,
             _path: str,
             _permissions: dict = None,
             _metas: dict = None
